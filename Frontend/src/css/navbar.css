@@ -1,0 +1,275 @@
+nav{
+  background-color: #000000;
+    margin:-18px;
+}
+.ele{
+    display: flex;
+    list-style-type: none;  
+   
+}
+
+.navele{
+    margin: 10px;
+    margin-left: 90px;
+}
+
+.navele11{
+  margin-top: 10px;
+  margin-left: 900px;
+  margin-right: 0px;
+}
+
+h2{
+    color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+h2:hover{
+    color: rgb(103, 103, 103);
+}
+
+a{
+    text-decoration: none;
+}
+
+.example-appear {
+    opacity: 0.04;
+ }
+ .example-appear.example-appear-active {
+    opacity: 2;
+    transition: opacity 50s ease-in;
+ }
+
+ .div{
+    height: 150px;
+    width:150px;
+    background-color: rgb(0, 0, 0);
+    margin:30px;
+ }
+
+ .areainput{
+    margin-left: 130px;
+ }
+
+ .bedroominput{
+    margin-left:27px;
+ }
+
+ .bathroominput{
+    margin-left: 22px;
+ }
+
+ .storiesinput{
+    margin-left:47px;
+ }
+
+ label{
+    margin-left: 45px;
+ }
+
+ .basementinput{
+    margin-left: 169px;
+ }
+
+ .parkinginput{
+    margin-left:52px;
+ }
+ 
+ .head{
+   margin-left: 44px;
+ }
+ 
+ .Submit_house_details{
+    width:100px;
+    height:30px;
+    margin-left:100px;
+    background-color: #505050;
+    margin-top: 15px;
+    color:#ffffff;
+    
+ }
+
+ .Result{
+   margin-left: 35px;
+   
+ }
+
+ .result{
+   margin-left: 35px;
+   color:rgb(135, 135, 135)
+ }
+
+ .imgprev{
+   width: 400px;
+   height:auto;
+ }
+
+ .Textareaa{
+   margin-left: 100px;
+   width: 670px;
+   height:180px;
+   resize: none;
+   border-width: 2px;
+   border-radius: 3px;
+   border-color: #000000;
+ }
+
+ .Textareaa:focus::placeholder {
+  color: transparent;
+}
+
+ .sentihead{
+   margin:160px 10px 40px 100px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 50px;
+   color: #ffffff;
+   padding-top: 20px;
+ }
+ 
+ .sentiheadd{
+  color: #ffffff;
+  margin-left:600px;
+  font-size: 40px;
+  margin-top:170px;
+  margin-bottom: 60px;
+ }
+ 
+
+ .sentiresult{
+   margin-left: 675px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   color: #ffffff;
+   margin-top: -30px;
+  font-size: 45px;
+ }
+ 
+ .fh{
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+ }
+
+
+ .ssp{
+   color: #000000;
+   background-color: #ffffff;
+   position: absolute;
+   left:725px;
+   padding:3px;
+ }
+
+ .Textareaaa{
+   margin-left: 400px;
+   width: 700px;
+   height:250px;
+   resize: none;
+   
+ }
+
+ .Textareaaa:focus::placeholder {
+  color: transparent;
+}
+
+ .actres{
+  margin-left: 590px;
+ }
+
+ .minwhat{
+   
+   width:60px;
+   height:20px;
+ }
+
+ .mintextt{
+   
+   left:609px;
+ }
+
+ .maxwhat{
+   
+   width:60px;
+   height:20px;
+  
+ }
+
+ .summarydiv{
+   margin-left: 37px;
+ }
+ 
+ .sentitext{
+  margin-left: 100px;
+  margin-bottom: -10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #ffffff;
+ }
+
+ body{
+  background-image: url(https://i.pinimg.com/736x/15/32/f4/1532f4784a858c7f2983683918556935.jpg);
+  overflow-x: hidden;
+  background-blend-mode: darken;
+ }
+
+ .Submit_house_details:hover{
+  cursor: pointer;
+  width:140px;
+  height:40px;
+  margin-left:80px;
+  border-width: 3px;
+  border-color: #ffffff
+ }
+ 
+ .maxtextt{
+  margin-left: 400px;
+  color: #ffffff;
+ }
+ .resdiv{
+  position: absolute;
+  left:460px;
+  top:200px;
+ }
+
+ .dk{
+  color: #ffffff;
+  margin-left: 400px;
+  font-size: 20px;
+ }
+ 
+ .mintextt{
+  color: #ffffff;
+  margin-left: 415px;
+  margin-right: 10px;
+ }
+
+
+ .Submit_house_detailss{
+  width:100px;
+    height:30px;
+    margin-left:400px;
+    background-color: #505050;
+    margin-top: 15px;
+    color:#ffffff;
+    
+ }
+
+ .Submit_house_detailss:hover{
+  cursor: pointer;
+  width:140px;
+  height:40px;
+  margin-left:380px;
+  border-width: 3px;
+  border-color: #ffffff
+
+ }
+
+ .resit{
+  color: #ffffff;
+  margin-left: 670px;
+  font-size: 40px;
+ }
+
+ .sumdiv{
+  background-color: #ffffff;
+  width: 1100px;
+  margin-left: 170px;
+  padding: 20px;
+  margin-bottom: 50px;
+ }
